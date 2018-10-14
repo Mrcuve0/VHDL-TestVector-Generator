@@ -6,7 +6,7 @@
 
 1. Download code (*Clone or Download* button).
 2. Extract zip
-3. Open ** folder using ```cd ```
+3. Open *VHDL-TestVector-Generator-master* folder using ```cd VHDL-TestVector-Generator-master```
 4. Run script (usage below).
 
 ### USAGE:
