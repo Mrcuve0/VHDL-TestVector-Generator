@@ -28,19 +28,19 @@ def CheckArgs():
 def ProcessGeneration(num_cases, num_signals, signals, timeInterval, timeUnit):
     print("\n\n----Copy-Paste the following code----\n")
     print("process")
-    print("\tbegin")
+    print("begin")
     
     for i in range(0, num_cases):
         string = "{0:0" + str(num_signals) + "b}"
         binaryConverted = str(string.format(i))
 
-        print("\t\t", end='')
+        print("\t", end='')
         for j in range(0, len(binaryConverted)):
             print(signals[j] + " <= \'" + binaryConverted[j] + "\'; ", end='')
-        print("\n\t\twait for " + str(timeInterval) + " " + str(timeUnit) + ";")
+        print("\n\twait for " + str(timeInterval) + " " + str(timeUnit) + ";")
     
-    print("\t\twait;")
-    print("\tend process;")
+    print("\twait;")
+    print("end process;")
 
     print("\n-------------------------------------")
 
