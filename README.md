@@ -2,6 +2,9 @@
 
 ## A simple script useful to quickly generate test vectors to be implemented in VHDL testbenches.
 
+[![DevelopmentStatus](https://img.shields.io/badge/Development-Stopped-red.svg)](https://img.shields.io/badge/Development-Stopped-red.svg)
+[![HitCount](http://hits.dwyl.io/Mrcuve0/VHDL-TestVector-Generator.svg)](http://hits.dwyl.io/Mrcuve0/VHDL-TestVector-Generator)
+
 ### INSTALLATION:
 
 1. Download code (*Clone or Download* button).
