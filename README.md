@@ -5,6 +5,8 @@
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Stopped-red.svg)](https://img.shields.io/badge/Development-Stopped-red.svg)
 [![HitCount](http://hits.dwyl.io/Mrcuve0/VHDL-TestVector-Generator.svg)](http://hits.dwyl.io/Mrcuve0/VHDL-TestVector-Generator)
 
+![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
+
 ### INSTALLATION:
 
 1. Download code (*Clone or Download* button).
